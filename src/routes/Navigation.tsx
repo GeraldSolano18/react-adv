@@ -30,7 +30,7 @@ export const Navigation = () => {
             renders the first one that matches the current URL. */}
         <Switch>
           <Route path="/about">
-            <h1>About</h1>
+            <h1>About TEST</h1>
           </Route>
           <Route path="/users">
             <h1>Users</h1>
